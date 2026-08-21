@@ -1,7 +1,7 @@
 {
   "baseline": "2026-08-19 下午确认并部署版本",
   "files": {
-    "template/index.template.html": "296fe1c5c14c8170be3f3a85be08562363b974909e765bb2a9aa37c5d77f32f8",
+    "template/index.template.html": "8fd10ed55e552c337ab19be237c649d0442c6f13969b473349afddbf5ca33189",
     "template/radar-scan.html": "37572df35d7ab5bdada4910f7763878ebbb9b0527eb82dd2dcb9e600cfaedefb"
   }
 }

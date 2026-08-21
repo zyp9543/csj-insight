@@ -2,7 +2,9 @@
   "meta": {
     "companyUpdatedAt": "2026.08.19",
     "industryUpdatedAt": "2026.08.19",
-    "landPeriod": "2026年7月 · 上海土地市场交易结果"
+    "landPeriod": "2026.07.21—2026.08.21 · 上海土地市场交易结果",
+    "landWindow": "2026.07.21—2026.08.21",
+    "policyRetention": "长期保留，周报新增"
   },
   "policyIndustries": [
     "集成电路",
